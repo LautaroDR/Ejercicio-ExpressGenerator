@@ -1,0 +1,5 @@
+Metodologia MVC 
+
+Se utilizo un JSON como base de datos - Objetivo: Mostrar productos y poder acceder a ellos.
+
+Estilos: Bootstrap
